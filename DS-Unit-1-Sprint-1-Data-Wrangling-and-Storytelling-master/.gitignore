@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+odd_even_numbers.ipynb
+test_n/

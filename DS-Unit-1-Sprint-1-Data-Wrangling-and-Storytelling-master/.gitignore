@@ -131,3 +131,6 @@ dmypy.json
 # Extra files and folders
 odd_even_numbers.ipynb
 test_n/
+
+.DS_Store
+.idea/

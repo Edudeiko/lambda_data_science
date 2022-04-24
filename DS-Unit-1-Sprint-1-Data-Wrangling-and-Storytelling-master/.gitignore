@@ -134,3 +134,5 @@ test_n/
 
 .DS_Store
 .idea/
+../.idea
+../main.py
